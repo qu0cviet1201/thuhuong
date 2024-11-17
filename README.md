@@ -28,7 +28,7 @@
   <script>
     var settings = {
       particles: {
-        length:   10000, // maximum amount of particles
+        length:   5000, // maximum amount of particles
         duration:   4, // particle duration in sec
         velocity: 80, // particle velocity in pixels/sec
         effect: -1.3, // play with this for a nice effect
