@@ -1,4 +1,3 @@
-
 <HTML>
  <HEAD>
   <TITLE> Viet </TITLE>
@@ -226,4 +225,3 @@
     })(document.getElementById('pinkboard'));
   </script>
  </BODY>
-</HTML>
